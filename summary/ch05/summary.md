@@ -9,6 +9,8 @@
 
 - パブ/サブの2種類のチャネルがある
 - GOFでいうところのオブザーバーパターン
+- trait EventBusを使っている
+    - JVM内
 
 ### Datatype Channel
 
