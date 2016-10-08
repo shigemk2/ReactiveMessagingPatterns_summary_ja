@@ -8,6 +8,7 @@
 ### Publish-Subscribe Channel
 
 - パブ/サブの2種類のチャネルがある
+- GOFでいうところのオブザーバーパターン
 
 ### Datatype Channel
 
