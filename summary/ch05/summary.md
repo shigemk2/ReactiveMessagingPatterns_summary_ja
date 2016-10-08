@@ -21,3 +21,17 @@
 
 - actor systemがレシーバーにメッセージを送信できない場合に対応したチャネル
 
+### Guaranteed Delivery
+
+- 通常actorはメッセージの送信を保証しないが、メッセージ送信を保証するチャネル
+
+### Channel Adapter
+
+- TODO
+
+### Message Bridge
+
+- アプリケーション間のメッセージのやりとり
+    - JMS
+    - RabbitMQ
+
