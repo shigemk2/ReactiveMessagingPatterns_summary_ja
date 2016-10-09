@@ -21,6 +21,7 @@
 ### Invalid Message Channel
 
 - 受け手が理解できないメッセージを投げられた時に対応したチャネル
+- 例としてのPipe and Filters
 
 ### Dead Letter Channel
 
