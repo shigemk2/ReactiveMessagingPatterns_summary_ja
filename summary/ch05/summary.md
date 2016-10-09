@@ -15,6 +15,7 @@
 ### Datatype Channel
 
 - データ型に対応したチャネル
+- メッセージの型を知りたい時に使う
 
 ### Invalid Message Channel
 
