@@ -16,6 +16,7 @@
 
 - データ型に対応したチャネル
 - メッセージの型を知りたい時に使う
+- also: https://docs.wso2.com/display/IntegrationPatterns/Datatype+Channel
 
 ### Invalid Message Channel
 
