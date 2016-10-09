@@ -22,6 +22,7 @@
 
 - 受け手が理解できないメッセージを投げられた時に対応したチャネル
 - 例としてのPipe and Filters
+- https://docs.wso2.com/display/IntegrationPatterns/Invalid+Message+Channel
 
 ### Dead Letter Channel
 
